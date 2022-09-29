@@ -1,4 +1,4 @@
-package com.saurabhthesuperhero.viewpageranimations
+package com.saurabhthesuperhero.viewpageranimationslib
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

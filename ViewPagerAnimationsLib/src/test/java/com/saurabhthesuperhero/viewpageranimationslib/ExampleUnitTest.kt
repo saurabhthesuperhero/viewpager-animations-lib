@@ -1,4 +1,4 @@
-package com.saurabhthesuperhero.viewpageranimations
+package com.saurabhthesuperhero.viewpageranimationslib
 
 import org.junit.Test
 
